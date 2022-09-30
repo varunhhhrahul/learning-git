@@ -1,2 +1,2 @@
-# repo1
+# Learning GIT
 learning git
